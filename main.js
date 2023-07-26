@@ -5,7 +5,7 @@ const listOfDestinations = new Array(
     `Oslo`,
 );
 
-const buyerAge = 18;
+const buyerAge = 20;
 const accompanied = false;
 const destiny = "Brazil";
 
